@@ -1,0 +1,9 @@
+{
+
+    kms : {
+        id : "com.owlpictureid.kmsbundadanbalita",
+        ver : "2.7.0",
+        enable : true,
+        message :  "Pembaruan aplikasi telah tersedia diharapkan pengguna memperbarui aplikasi"
+    }
+}
