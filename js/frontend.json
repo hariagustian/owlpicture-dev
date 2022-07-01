@@ -2,7 +2,7 @@
 
     "kms" : {
         "id" : "com.owlpictureid.kmsbundadanbalita",
-        "ver" : "2.7.0",
+        "ver" : "2.7.1",
         "enable" : true,
         "message" :  "Pembaruan aplikasi telah tersedia diharapkan pengguna memperbarui aplikasi, klik pesan ini untuk memperbarui lewat playstore >>",
         "messageLimitInDays" : "Pembaruan aplikasi telah tersedia, diharapkan pengguna memperbarui aplikasi sebelum kadaluarsa, klik pesan ini untuk memperbarui lewat playstore >>"
