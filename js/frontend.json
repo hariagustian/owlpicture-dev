@@ -9,14 +9,14 @@
     },
     "brankas" : {
         "id" : "com.owlpictureid.brankas",
-        "ver" : "1.1.2",
+        "ver" : "1.1.3",
         "enable" : true,
         "message" :  "Pembaruan aplikasi telah tersedia diharapkan pengguna memperbarui aplikasi, klik pesan ini untuk memperbarui lewat playstore >>",
         "messageLimitInDays" : "Pembaruan aplikasi telah tersedia, diharapkan pengguna memperbarui aplikasi sebelum kadaluarsa, klik pesan ini untuk memperbarui lewat playstore >>"
     },
     "bumil" : {
         "id" : "com.owlpictureid.bumil",
-        "ver" : "2.2.3",
+        "ver" : "2.2.4",
         "enable" : true,
         "message" :  "Pembaruan aplikasi telah tersedia diharapkan pengguna memperbarui aplikasi, klik pesan ini untuk memperbarui lewat playstore >>",
         "messageLimitInDays" : "Pembaruan aplikasi telah tersedia, diharapkan pengguna memperbarui aplikasi sebelum kadaluarsa, klik pesan ini untuk memperbarui lewat playstore >>"
